@@ -1,0 +1,2 @@
+# NF48VsCode
+VSCodeで.netframeworkのビルドとデバックをするためのサンプルプロジェクト
